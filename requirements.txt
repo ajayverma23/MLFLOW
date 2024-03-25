@@ -12,4 +12,9 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
+python-box
+pyyaml
+joblib
+ensure
+pandas
 -e . # copy folder structure/ pickup setup.py
